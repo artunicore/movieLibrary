@@ -1,0 +1,27 @@
+*{
+  font-family: 'Roboto';
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scrollbar-width: thin;
+  scrollbar-color: #efb6d4 transparent;
+}
+
+body{
+  background-color: #000;
+  color: #fff;
+}
+
+a{
+  font-size: xx-large;
+  text-decoration: none;
+  color: #efb6d4;
+  transition: transform .2s;
+  text-align: center;
+}
+
+a:hover{
+  color: 	#d74894;
+  transform: scale(1.1);
+}
+
